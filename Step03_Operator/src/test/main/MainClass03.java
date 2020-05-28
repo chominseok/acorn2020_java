@@ -13,8 +13,8 @@ public class MainClass03 {
 		boolean result6 = 10 <= 10; //true	
 		
 		String name=null;
-		
-		boolean result7 = name == null; //true
+		//null인지 아닌지 비교연산 가능
+ 		boolean result7 = name == null; //true
 		boolean result8 = name != null; //false
 	}
 }
